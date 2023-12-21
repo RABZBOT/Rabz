@@ -6,14 +6,14 @@
 </p>
 
 <p align="center">
-HI I AM RABZBOT <a href="https://github.com/RABZBOT" target="_blank">RABZBOT</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+<a href="https://github.com/RABZBOT" target="_blank">RABZBOT</a> USING <a href="https://github.com/adiwajshing/Baileys" target="_blank">BAILEYS</a> AND <a href="https://github.com/nodejs" target="_blank">NODEJS</a>. REPO FROM DGXEON
 </p>
 
 <p align="center">
 <a href="https://youtu.be/L_SIk59QeAU"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
 </p>
 ------
-## ```Bot Support Group Chats```
+## ```DGXEON Bot Support Group Chats```
 
 - [`1st GC`](https://chat.whatsapp.com/Dc2qyVeK8JbJq8Gr3U1pKH)
 # Setup For Deployment 👇
